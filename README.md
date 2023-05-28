@@ -24,6 +24,11 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
 
+<p align="center">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=kotsiossp97&color=red&style=for-the-badge" />
+  </a>
+</p>
 <!--
 **kotsiossp97/kotsiossp97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
