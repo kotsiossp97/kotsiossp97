@@ -4,7 +4,7 @@
   <b>Welcome to my GitHub page!</b><br><br>
   <i>I'm Konstantinos, a curious softare engineer that always wants to learn something new 😋</i>
   <br><br>
-  <a href="https://www.linkedin.com/in/konstantinos-andreou97/">
+  <a href="https://www.linkedin.com/in/konstantinos-andreou97/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
