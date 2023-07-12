@@ -7,6 +7,10 @@
   <a href="https://www.linkedin.com/in/konstantinos-andreou97/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;
+  <a href="https://kotsiossp97.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge" alt="portfolio">
+  </a>
 </p>
 
 ### Languages
