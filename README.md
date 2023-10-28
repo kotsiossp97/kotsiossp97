@@ -14,8 +14,9 @@
 </p>
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kotsiossp97)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/kotsiossp97)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/kotsiossp97)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/kotsiossp97)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/kotsiossp97)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/kotsiossp97)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/kotsiossp97)
@@ -24,10 +25,17 @@
 
 
 ### Frameworks
+[![Node](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=node.js)](https://github.com/kotsiossp97)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/kotsiossp97)
+[![NextJS](https://img.shields.io/badge/nextJs-black?style=for-the-badge&logo=next.js)](https://github.com/kotsiossp97)
+[![Electron](https://img.shields.io/badge/electron-black?style=for-the-badge&logo=electron)](https://github.com/kotsiossp97)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/kotsiossp97)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/kotsiossp97)
 
+### Styling
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/kotsiossp97)
+[![SASS](https://img.shields.io/badge/Saas-black?style=for-the-badge&logo=sass)](https://github.com/kotsiossp97)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/kotsiossp97)
+[![MaterialUI](https://img.shields.io/badge/MaterialUI-black?style=for-the-badge&logo=mui)](https://github.com/kotsiossp97)
 <p align="center">
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=kotsiossp97&color=red&style=for-the-badge" />
