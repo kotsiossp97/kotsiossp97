@@ -33,7 +33,7 @@
 
 ### Styling
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/kotsiossp97)
-[![SASS](https://img.shields.io/badge/Saas-black?style=for-the-badge&logo=sass)](https://github.com/kotsiossp97)
+[![SASS](https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass)](https://github.com/kotsiossp97)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/kotsiossp97)
 [![MaterialUI](https://img.shields.io/badge/MaterialUI-black?style=for-the-badge&logo=mui)](https://github.com/kotsiossp97)
 <p align="center">
