@@ -1,6 +1,7 @@
-<h1 align="center">Hi, there! 👋</h1>
+# Hi, there! 👋
+<a href="https://app.daily.dev/kotsiossp97"><img src="https://api.daily.dev/devcards/366229592ff6468fbd8ee70b704e9cfa.png?r=ivg" width="400" align="right" alt="Konstantinos Andreou's Dev Card"/></a>
 
-<p align="center">
+<p align="left">
   <b>Welcome to my GitHub page!</b><br><br>
   <i>I'm Konstantinos, a curious software engineer that always eagers to learn something new 😋</i>
   <br><br>
