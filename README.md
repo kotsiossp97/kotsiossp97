@@ -1,5 +1,5 @@
 # Hi, there! 👋
-<a href="https://app.daily.dev/kotsiossp97"><img src="https://github.com/kotsiossp97/kotsiossp97/blob/main/devcard.svg" width="400" align="right" alt="Konstantinos Andreou's Dev Card"/></a>
+<a href="https://app.daily.dev/kotsiossp97"><img src="./devcard.png" width="400" align="right" alt="Konstantinos Andreou's Dev Card"/></a>
 
 <p align="left">
   <b>Welcome to my GitHub page!</b><br><br>
